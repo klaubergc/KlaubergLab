@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "KlaubergLab",
+			"path": "KlaubergLab"
+		},
+		{
+			"name": "KlaubergLab-1",
+			"path": "../KlaubergLab-1"
+		}
+	],
+	"settings": {}
+}
